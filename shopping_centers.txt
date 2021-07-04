@@ -1,0 +1,6 @@
+PPID;Tokyo Department;Store=https://www.tokyu-dept.co.jp/
+
+PPID;Seibu Shibuya Store;https://www.sogo-seibu.jp/shibuya/topics/page/190522debut-JohnnysISLANDSTORE.html
+
+PPID;National Azabu;http://national-azabu.com/
+
